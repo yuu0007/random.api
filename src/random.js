@@ -11,7 +11,7 @@ class Random {
 			nsfw: body.nsfw,
 			spoiler: body.spoiler,
 			author: body.author,
-			upvotes: body.upvotes
+			upvotes: body.ups
 		};
 		
 		return content;
