@@ -17,3 +17,5 @@ class Random {
 		return content;
 	}
 }
+
+module.exports = Random;
