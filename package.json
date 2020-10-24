@@ -1,6 +1,6 @@
 {
   "name": "@yuu0007/random.api",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Random Api!",
   "main": "index.js",
   "scripts": {
