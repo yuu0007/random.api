@@ -1,5 +1,8 @@
 # random.api
 
+# Installation
+`npm i @yuu0007/random.api`
+
 ## Example
 ```js
 const { Random } = require('@yuu0007/random.api');

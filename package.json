@@ -1,6 +1,6 @@
 {
   "name": "@yuu0007/random.api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Random Api!",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,14 @@
   "license": "Apache-2.0",
   "dependencies": {
     "node-superfetch": "^0.1.10"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuu0007/random.api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuu0007/random.api/issues"
+  },
+  "homepage": "https://github.com/yuu0007/random.api#readme"
 }
