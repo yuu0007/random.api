@@ -1,0 +1,19 @@
+{
+  "name": "@yuu0007/random.api",
+  "version": "0.0.2",
+  "description": "Random Api!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test complete"
+  },
+  "keywords": [
+    "random",
+    "api",
+    "randomapi"
+  ],
+  "author": "jmquimosing@gmail.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "node-superfetch": "^0.1.10"
+  }
+}
