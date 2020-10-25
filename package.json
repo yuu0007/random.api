@@ -1,6 +1,6 @@
 {
   "name": "@yuu0007/random.api",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Random Api!",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "api",
     "randomapi"
   ],
-  "author": "jmquimosing@gmail.com",
+  "author": "yuu",
   "license": "Apache-2.0",
   "dependencies": {
     "node-superfetch": "^0.1.10"
