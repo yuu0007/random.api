@@ -12,7 +12,7 @@ async function meme() {
 	const content = await random.getMeme();
 	console.log(content);
 	/*
-	* This returns:
+	* This returns an objecg:
 	* {
 	*	postLink: "https://redd.it/jgymyb",
 	*	subreddit: "dankmemes",
@@ -23,12 +23,13 @@ async function meme() {
 	*	author: "Walrus909",
 	*	upvotes: 14257
 	* }
+        *
 	*/
 }
 ```
 
 ## Available Endpoints
-- getMeme() | This returns:
+- getMeme() | This returns an object:
 ```js
 {
 	postLink: "https://redd.it/jgymyb",
