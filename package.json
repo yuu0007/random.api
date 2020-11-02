@@ -18,8 +18,7 @@
     "node-superfetch": "^0.1.10"
   },
   "devDependencies": {
-    "jsdoc": "^3.6.6",
-    "minami": "^1.2.3"
+    "jsdoc": "^3.6.6"
   },
   "repository": {
     "type": "git",
