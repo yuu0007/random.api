@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo test complete",
-    "docs": "npm i -g jsdoc minami && jsdoc -d docs -c jsdoc.json index.js -r src -R README.md"
+    "docs": "npm i -g jsdoc minami && jsdoc -d docs -r src -R README.md -c conf.json -t minami index.js"
   },
   "keywords": [
     "random",
