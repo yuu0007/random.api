@@ -1,6 +1,13 @@
 const request = require('node-superfetch');
 
+/**
+ * A class for getting random stuff! 
+ */
 class Random {
+	/**
+	 * Get a random meme!
+	 * @returns {Object}
+	 */
 	async getMeme() {
 		const { body } = await request.get('https://meme-api.herokuapp.com/gimme');
 		const content = {

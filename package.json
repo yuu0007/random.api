@@ -4,7 +4,8 @@
   "description": "Random Api!",
   "main": "index.js",
   "scripts": {
-    "test": "echo test complete"
+    "test": "echo test complete",
+    "docs": "jsdoc -d docs index.js -r src -R README.md -t ./minami"
   },
   "keywords": [
     "random",
@@ -16,7 +17,10 @@
   "dependencies": {
     "node-superfetch": "^0.1.10"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jsdoc": "^3.6.6",
+    "minami": "^1.2.3"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yuu0007/random.api.git"
